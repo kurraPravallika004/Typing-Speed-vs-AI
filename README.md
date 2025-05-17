@@ -2,10 +2,6 @@
 
 A fun and interactive web-based typing game where you race against an AI to see who types faster! Challenge yourself to beat the AI's speed by typing a randomly selected sentence as quickly and accurately as possible.
 
-## Demo Screenshot
-
-![Typing Speed vs AI Screenshot](cb295117-d280-4aa1-8bf9-a817c75fce65.png)
-
 ## Features
 
 - **AI competitor:** Simulates an AI typing at a variable speed (between 5-12 characters per second).
